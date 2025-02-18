@@ -7,15 +7,18 @@
 ## 📫 How to reach me:
 
 <div align="center">
-  ![My Skills](https://skillicons.dev/icons?i=python,cpp,linux)
+
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gaspar-sanchez-aviles/) &nbsp;
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gaspar.s1995@gmail.com?subject=Hello%Gaspar,%20From%20Github)
+
 </div>
 
 ## 💻 My Tech Stack
 
 <div align="center">
+
   [![C, Python, Rust, JavaScript, Quasar, Espressif, STMicroelectronics](https://skillicons.dev/icons?i=c,python,rust,js,quasar,espressif,stmicroelectronics)](https://skillicons.dev)
+
 </div>
 
 <!--
