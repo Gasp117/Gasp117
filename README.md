@@ -7,6 +7,7 @@
 ## 📫 How to reach me:
 
 <div align="center">
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gaspar-sanchez-aviles/) &nbsp;
   [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:gaspar.s1995@gmail.com?subject=Hello%Gaspar,%20From%20Github)
 </div>
