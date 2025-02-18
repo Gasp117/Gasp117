@@ -15,13 +15,34 @@
 
 ## 💻 My Tech Stack
 
+### Programming languages
+
 <div align="center">
 
-  [![C, Python, Rust, Linux, JavaScript, Vue, Arduino, RPi](https://skillicons.dev/icons?i=c,python,rust,linux,js,vue,arduino,raspberrypi)](https://skillicons.dev)
+  [![C, Python, Rust, JavaScript, Vue](https://skillicons.dev/icons?i=c,python,rust,js,vue)](https://skillicons.dev)
 
 </div>
 
-As you can see, I love the combination of hardware and software development.
+### Hardware
+
+<div align="center">
+
+![Espressif](https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STMicroelectronics](https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/Raspberry-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+
+</div>
+
+### Other techologies
+
+<div align="center">
+
+  [![Linux, Docker, Git, Linux, JavaScript, Vue](https://skillicons.dev/icons?i=linux,docker,git,)](https://skillicons.dev)
+
+</div>
+
 
 ## 📝 Current tasks
 
