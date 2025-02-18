@@ -39,7 +39,7 @@
 
 <div align="center">
 
-  [![Linux, Docker, Git, Linux, JavaScript, Vue](https://skillicons.dev/icons?i=linux,docker,git,)](https://skillicons.dev)
+  [![Linux, Docker, Git](https://skillicons.dev/icons?i=linux,docker,git)](https://skillicons.dev)
 
 </div>
 
