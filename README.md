@@ -17,7 +17,7 @@
 
 <div align="center">
 
-  [![C, Python, Rust, JavaScript, Quasar, Espressif, STMicroelectronics](https://skillicons.dev/icons?i=c,python,rust,js,quasar,espressif,stmicroelectronics)](https://skillicons.dev)
+  [![C, Python, Rust, Linux, JavaScript, Vue, Arduino, RPi](https://skillicons.dev/icons?i=c,python,rust,linux,js,vue,arduino,raspberrypi)](https://skillicons.dev)
 
 </div>
 
