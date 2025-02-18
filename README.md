@@ -15,7 +15,7 @@
 
 ## 💻 My Tech Stack
 
-### Programming languages
+### Programming
 
 <div align="center">
 
