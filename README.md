@@ -21,9 +21,14 @@
 
 </div>
 
+As you can see, I love the combination of hardware and software development.
+
+## 📝 Current tasks
+
+I am currently developing an application with some colleagues, partially in [![Rust](https://skillicons.dev/icons?i=,rust)]. You'll see more when the time comes!
+
 <!--
 **Gasp117/Gasp117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 
