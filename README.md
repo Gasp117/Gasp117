@@ -1,7 +1,7 @@
 # About me
 
 - 🥸 I studied electronic engineering because I wanted to improve people's lives through powerful devices that make their daily tasks easier. However, as I started my professional career in the industry, I discovered a deep passion for software development—especially when combined with embedded systems programming. The intersection of hardware and software fascinated me, and I quickly realized how impactful well-designed software can be in bringing embedded systems to life.
-- 🔭 I’m currently working at [Sirden](https://es.linkedin.com/company/sirden), where I work with embedded systems, and also develop software for third parties.
+- 🔭 I’m currently working at [Sirden](https://es.linkedin.com/company/sirden), where I manage embedded systems, and also develop software for third parties.
 - 🌱 I’m fully committed to learning rust. I find it a very powerful and enriching language, that is helping me grow as a developer, and an engineer, changing the way I think. Also, I think it will be a key language in the future to come.
 
 ## 📫 How to reach me:
