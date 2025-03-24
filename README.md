@@ -19,7 +19,7 @@
 
 <div align="center">
 
-  [![C, Python, Rust, JavaScript, Vue](https://skillicons.dev/icons?i=c,python,rust,js,vue)](https://skillicons.dev)
+  [![C, C++, Python, Rust, JavaScript, Vue](https://skillicons.dev/icons?i=c,cpp,python,rust,js,vue)](https://skillicons.dev)
 
 </div>
 
