@@ -13,7 +13,7 @@
 
 </div>
 
-## 💻 My Tech Stack
+## My Tech Stack
 
 ### Programming
 
