@@ -2,6 +2,7 @@
 
 I started my journey in Electronic Engineering with a simple goal: to build devices that make life easier. However, the deeper I got into the industry, the more I realized that software is the "soul" that brings hardware to life. 
 Today, I specialize in the intersection of Embedded Systems and High-Performance Backend Development.
+
 Why Rust? I am fully committed to the Rust ecosystem. For me, Rust isn't just a tool; it’s a mental shift in how to build safe, concurrent, and efficient systems. I believe it is the future of both embedded and systems programming, and I apply it to optimize APIs and real-time architectures.
 
 ## How to reach me:
